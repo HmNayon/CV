@@ -1,0 +1,12 @@
+h3 {
+	
+	background: gray;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+width: 15%;
+border-radius: 100%;
+}
